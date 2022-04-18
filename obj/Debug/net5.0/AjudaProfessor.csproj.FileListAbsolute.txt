@@ -1,0 +1,16 @@
+C:\Users\breno.ferraz\Desktop\Ajuda-Professor\AjudaProfessor\obj\Debug\net5.0\AjudaProfessor.csproj.AssemblyReference.cache
+C:\Users\breno.ferraz\Desktop\Ajuda-Professor\AjudaProfessor\obj\Debug\net5.0\AjudaProfessor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\breno.ferraz\Desktop\Ajuda-Professor\AjudaProfessor\obj\Debug\net5.0\AjudaProfessor.AssemblyInfoInputs.cache
+C:\Users\breno.ferraz\Desktop\Ajuda-Professor\AjudaProfessor\obj\Debug\net5.0\AjudaProfessor.AssemblyInfo.cs
+C:\Users\breno.ferraz\Desktop\Ajuda-Professor\AjudaProfessor\obj\Debug\net5.0\AjudaProfessor.csproj.CoreCompileInputs.cache
+C:\Users\breno.ferraz\Desktop\Ajuda-Professor\AjudaProfessor\bin\Debug\net5.0\AjudaProfessor.exe
+C:\Users\breno.ferraz\Desktop\Ajuda-Professor\AjudaProfessor\bin\Debug\net5.0\AjudaProfessor.deps.json
+C:\Users\breno.ferraz\Desktop\Ajuda-Professor\AjudaProfessor\bin\Debug\net5.0\AjudaProfessor.runtimeconfig.json
+C:\Users\breno.ferraz\Desktop\Ajuda-Professor\AjudaProfessor\bin\Debug\net5.0\AjudaProfessor.runtimeconfig.dev.json
+C:\Users\breno.ferraz\Desktop\Ajuda-Professor\AjudaProfessor\bin\Debug\net5.0\AjudaProfessor.dll
+C:\Users\breno.ferraz\Desktop\Ajuda-Professor\AjudaProfessor\bin\Debug\net5.0\ref\AjudaProfessor.dll
+C:\Users\breno.ferraz\Desktop\Ajuda-Professor\AjudaProfessor\bin\Debug\net5.0\AjudaProfessor.pdb
+C:\Users\breno.ferraz\Desktop\Ajuda-Professor\AjudaProfessor\obj\Debug\net5.0\AjudaProfessor.dll
+C:\Users\breno.ferraz\Desktop\Ajuda-Professor\AjudaProfessor\obj\Debug\net5.0\ref\AjudaProfessor.dll
+C:\Users\breno.ferraz\Desktop\Ajuda-Professor\AjudaProfessor\obj\Debug\net5.0\AjudaProfessor.pdb
+C:\Users\breno.ferraz\Desktop\Ajuda-Professor\AjudaProfessor\obj\Debug\net5.0\AjudaProfessor.genruntimeconfig.cache

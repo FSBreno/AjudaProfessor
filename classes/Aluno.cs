@@ -31,20 +31,20 @@ namespace AjudaProfessor.classes
         public (string, int) AvaliaMedia(double media)
         {
             int val = (int)media;
-            if (media < 4)
+            if (media > 6)
             {
-                return("Aluno reprovado!", val);
-            }                
+                return ("Parabéns, você passou", val);
+            }
             else if (media > 4 && media < 6)
             {
-                return("Aluno está de recuperação", val);
+                return ("Aluno está de recuperação", val);
             }
-            else if (media > 6)
+            else
             {
-                return("Parabéns, você passou", val);
+                return ("Aluno reprovado!", val);
             }
         }
-        public bool Aprovado(double media)
+        public bool Passou(double media)
         {
             bool aprovado;
             if (media > 6)
