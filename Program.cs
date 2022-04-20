@@ -4,12 +4,12 @@ namespace AjudaProfessor
 {
     class Program
     {
-        public void Main()
+        public static void Main()
         {
             // Boas VIndas ao Ajuda Professor
             Console.WriteLine("Bem Vindo ao Ajuda Professor!");
 
-            bool Continua = false;
+            bool Continua = true;
             // Coletando informações do aluno
             do
             {
@@ -26,7 +26,7 @@ namespace AjudaProfessor
                     Console.WriteLine(Matricula);
                     Console.WriteLine(Nota1);
                     Console.WriteLine(Nota2);
-                    Console.WriteLine("Está correto?(Digite 1 = Sim ou 0 = Não):");
+                    Console.WriteLine("Deseja alterar?(Digite 1 = Sim ou 0 = Não):");
                     Continua = Convert.ToBoolean(Convert.ToInt16(Console.ReadLine()));
             } while (Continua);
         }
